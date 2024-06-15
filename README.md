@@ -1,2 +1,2 @@
 # Bank.Account.System
-This project includes, debit,withdraw and deposit the money. 
+In this banking system, users have the capability to perform several essential financial transactions. These transactions include the ability to check their account balance, withdraw funds, and deposit money into their accounts. Each of these functionalities is crucial for the effective management of personal finances and ensures that users can efficiently access and control their monetary resources. The system is designed to provide a secure, user-friendly interface that facilitates these operations while maintaining the integrity and confidentiality of user data.
